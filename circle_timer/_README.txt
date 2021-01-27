@@ -30,7 +30,7 @@ Canvas要素のContext2Dで実装してみました
 以上のタグが使えるようになります。
 
 またQiita記事にてサンプルコード含め詳細な使用方法を扱っているため詳しい使い方については以下のURLをご覧ください。
-https://qiita.com/diyin_near_j/items/c04bd66302d29f41c695
+https://qiita.com/diyin_near_j/private/179b68331980c9def46f
 
 
 ◇ ファイル構成 ◇
